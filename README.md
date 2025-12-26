@@ -22,7 +22,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/yolov8-raccoon-detector.git
+git clone [https://github.com/yourusername/yolov8-raccoon-detector.git](https://github.com/solomka385/yolov8_fire_detection.git)
 cd yolov8-raccoon-detector
 ```
 
