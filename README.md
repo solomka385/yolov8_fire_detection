@@ -23,7 +23,7 @@
 ### 1. Клонирование репозитория
 ```bash
 git clone https://github.com/solomka385/yolov8_fire_detection.git
-cd yolov8-raccoon-detector
+cd yolov8_fire_detection
 ```
 
 <img width="1280" height="564" alt="image" src="https://github.com/user-attachments/assets/131cbbfa-6372-4e1d-aaae-01a3afe214fa" />
