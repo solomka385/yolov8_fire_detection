@@ -24,6 +24,7 @@
 ```bash
 git clone https://github.com/yourusername/yolov8-raccoon-detector.git
 cd yolov8-raccoon-detector
+```
 
 <img width="1280" height="564" alt="image" src="https://github.com/user-attachments/assets/131cbbfa-6372-4e1d-aaae-01a3afe214fa" />
 
