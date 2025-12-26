@@ -2,7 +2,6 @@
 """
 Streamlit приложение для детекции огня с помощью обученной модели YOLOv8
 """
-
 # ИМПОРТИРУЕМ ФИКС ПЕРЕД ВСЕМИ ДРУГИМИ ИМПОРТАМИ
 from utils.fix_torch_load import apply_torch_load_fix
 apply_torch_load_fix()
